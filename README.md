@@ -56,6 +56,7 @@ Letsupgrade Batch 6 Python Assignment present here
 
 ##### 1) Day5_Assignment.ipynb
    **Question1**
+   
           Sort the data in increasing order but all zeros present should be move to right hand side?
           
           input:
