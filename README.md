@@ -35,7 +35,7 @@ Letsupgrade Batch 6 Python Assignment present here
          
 ## **Day-4**
 
-##### 1) Day3_Assignment.ipynb
+##### 1) Day4_Assignment.ipynb
    **Question1**
    
          Find all occurrence of substring in the given string 
@@ -50,3 +50,34 @@ Letsupgrade Batch 6 Python Assignment present here
              isupper()
 
           with different kinds of strings?
+          
+          
+## **Day-5**
+
+##### 1) Day5_Assignment.ipynb
+   **Question1**
+          Sort the data in increasing order but all zeros present should be move to right hand side?
+          
+          input:
+          
+              [0,1,2,10,4,1,0,56,2,0,1,3,0,56,0,4]
+              
+          output:
+          
+              [1,1,1,2,2,3,4,4,10,56,56,0,0,0,0,0]
+         
+   **Question2**
+   
+          Write program to merge two sorted lists to produce one sorted list, but use 
+          only one loop either while or for?
+          
+          Input:
+          
+              list1=[10,20,40,60,70,80] sorted list
+         
+              list2=[5,15,25,35,45,60] sorted list
+          
+          Output:
+  
+              list3[5,10,15,20,25,35,40,60,60,70,80]
+
