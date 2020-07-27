@@ -82,3 +82,21 @@ Letsupgrade Batch 6 Python Assignment present here
   
               list3[5,10,15,20,25,35,40,60,60,70,80]
 
+
+## **Day-6**
+
+##### 1) Day6_Assignment.ipynb
+   **Question1**
+
+	Convert given lists to dictionary in one line code without using zip methond?
+
+	Input:
+
+		List1 = [1,2,3,4,5,7,8]
+		List2 = [“a”, “b”, “c”, “d”, “e”,"f"]
+
+	Output:
+	
+		Dict={"a":1,"b":2,"c":3,"d":4,"e":7,"f":8}
+
+
