@@ -100,3 +100,28 @@ Letsupgrade Batch 6 Python Assignment present here
 		Dict={"a":1,"b":2,"c":3,"d":4,"e":7,"f":8}
 
 
+
+## **Day-7**
+
+##### 1) Day7_Assignment.ipynb
+   **Question1**
+	Write python code to toggle keys and value pair?
+	
+	Input:
+		
+		port1 = {21: "FTP", 22:"SSH", 23: "telnet", 80: "http"}
+
+	Output:
+
+		Port2 = {“FTP":21, "SSH":22, “telnet":23,"http": 80}	
+
+   **Question2**
+
+Take a list of tuple as shown below.
+[(1,2), (3,4), (5,6),(4,5)]
+Make a new list which contains the sum of the number of tuples.
+For example
+Input
+[(1,2), (3,4), (5,6)]
+Output
+[3, 7, 11]
