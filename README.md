@@ -105,6 +105,7 @@ Letsupgrade Batch 6 Python Assignment present here
 
 ##### 1) Day7_Assignment.ipynb
    **Question1**
+
 	Write python code to toggle keys and value pair?
 	
 	Input:
@@ -117,11 +118,13 @@ Letsupgrade Batch 6 Python Assignment present here
 
    **Question2**
 
-Take a list of tuple as shown below.
-[(1,2), (3,4), (5,6),(4,5)]
-Make a new list which contains the sum of the number of tuples.
-For example
-Input
-[(1,2), (3,4), (5,6)]
-Output
-[3, 7, 11]
+	Write a program to create list from tuple set by adding them?
+
+	Input:
+
+		[(1,2), (3,4), (5,6),(4,5)]
+
+	Output:
+
+		[3, 7, 11]
+
